@@ -1,1 +1,1 @@
-# BotVSCode
+General Bots inside VSCode
